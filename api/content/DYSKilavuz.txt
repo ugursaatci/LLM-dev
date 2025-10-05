@@ -1,0 +1,124 @@
+XXX BANK DOKÜMAN
+YÖNETİM SİSTEMİ
+SON KULLANICI KILAVUZU
+1
+Doküman Yönetim Sistemi
+Yapılan bu döküman yönetim sistemi projesi, esnek bir yapı oluşturma isteği üzerine SharePoint 2019 aracılığı ile geliştirilmiştir. Bu proje bir alt yapı yenileme
+projesi olup mecvutta kullanılan tasarımlar özellik bazında korunup, günümüz
+şartlarına uygun Responsive Web standartlarına uygun bir tasarım ile
+geliştirilmiştir. Projenin ön yüzü bu geliştirilen tasarım ile yenilenmiştir.
+Sistem üzerinde doküman tanımlanırken ve bu dokümanlar yayınlanırken
+asenkron ve senkron olarak belli başlı kurallar uygulanmıştır. Bu kural setlerine
+uymayan dokümanlar sisteme kabul edilmeyecek ve yayına alınmayacaktır. Bu
+kurallar mümkün olduğu kadar dinamik olarak yönetilebilir şekildedir.
+3
+MODÜLLER
+A. S.S.S. (Sık Sorulan Sorular Alanı)
+Üst menüde bulunan S.S.S linkine tıklayarak ulaşabilirsiniz. Açılan sayfada site üzerinde bulunan sık sorulan sorular ve
+yanıtlarını bulabilirsiniz.
+B. Arama
+Arama alanına aşağıdaki alanda aramak istediğiniz metni girerek ardından büyüteç ikonuna tıklayarak site üzerinde
+bulunan belgeler içerisinde arama yapabilirsiniz. Büyüteç ikonuna tıkladığınızda arama sonuçları sayfasına
+yöneleceksiniz.
+Sonuç sayfası içerisinde sol kısımda bulunan alanlar üzerinden filtreleme yapabilirsiniz. Filtreleme seçenekleri result
+type (doküman tipi), author (yazar), modified date (düzenlenme tarihi) olarak yer almaktadır. Result type ile istenilen
+doküman tipi filtrelenmektedir. Author ile, seçilen yazara ait dokümanlar sayfaya çekilecektir. Modified date ile hangi
+yıl aralığı seçilirse o dönemde bulunan dokümanlar ekranda yer alacaktır.
+C. Tümü, talimatlar, politikalar, yönetmelikler, görev tanımları, ,iş akışları, kontrol listeleri, formlar/listeler ve diğer
+Bu alanda sisteme yüklenmiş dokümanların kategorize edilmiş hali yer almaktadır.
+4
+C.1. Tümü
+Tümü alanı, yayınlanmış tüm dokümanların, doküman tipi farketmeksizin bulunduğu alandır. Bu alanda Ad,
+DokumanAdi, DokumanNo, DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi
+ayrıntılarına yer verilir. Ad kısmındaki dosyaların üstüne tıklanarak, doküman indirme işlemi gerçekleştirilmektedir.
+C.2. Talimatlar
+Talimatlar alanı, doküman tipi talimatlar olan dokümanların bulunduğu alandır. Ad, DokumanAdi, DokumanNo,
+DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Son kullanıcı,
+Ad kısmındaki dosyaların üstüne tıklayarak, doküman indirme işlemini gerçekleştirebilir.
+C.3. Politikalar
+Politikalar alanı, doküman tipi politikalar olan dokümanların bulunduğu alandır. Ad, DokumanAdi, DokumanNo,
+DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad kısmındaki
+dosyaların üstüne tıklanarak, doküman indirme işlemi bu alanlarda da yapılabilmektedir.
+C.4. Yönetmelikler
+Yönetmelikler alanı, doküman tipi yönetmelik olan dokümanların bulunduğu alandır. Ad, DokumanAdi, DokumanNo,
+DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad kısmındaki
+dosyaların üstüne tıklanarak, doküman indirme işlemi bu alanlarda da yapılabilmektedir.
+C.5. Görev Tanımları
+Görev tanımları alanı, doküman tipi görev tanımları olan dokümanların bulunduğu alandır. Ad, DokumanAdi,
+DokumanNo, DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad
+kısmındaki dosyaların üstüne tıklanarak, doküman indirme işlemi bu alanlarda da yapılabilmektedir.
+5
+C.6. İş Akışları
+İş akışları alanı, doküman tipi iş akışları olan dokümanların bulunduğu alandır. Ad, DokumanAdi, DokumanNo,
+DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad kısmındaki
+dosyaların üstüne tıklanarak, doküman indirme işlemi bu alanlarda da yapılabilmektedir.
+C.7. Kontrol Listeleri
+Kontrol listeleri alanı, doküman tipi kontrol listeleri olan dokümanların bulunduğu alandır. Ad, DokumanAdi,
+DokumanNo, DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad
+kısmındaki dosyaların üstüne tıklanarak, doküman indirme işlemi bu alanlarda da yapılabilmektedir.
+C.8. Formlar & Listeler
+Formlar & Listeler alanı, doküman tipi formlar ve listeler olan dokümanların bulunduğu alandır. Ad, DokumanAdi,
+DokumanNo, DokumanTipi, RevizyonNo, RevizyonTarihi, YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad
+kısmındaki dosyaların üstüne tıklanarak, doküman indirme işlemi bu alanlarda da yapılabilmektedir.
+C.9. Diğer
+Diğer alanında, yukarıdaki doküman tiplerine dahil olmayan ve doküman tipi son kullanıcı tarafından (?) belirlenen
+dokümanlar bulunmaktadır. Ad, DokumanAdi, DokumanNo, DokumanTipi, RevizyonNo, RevizyonTarihi,
+YayinlanmaTarihi, SahipBolumAdi ayrıntılarına yer verilir. Ad kısmındaki dosyaların üstüne tıklanarak, doküman
+indirme işlemi bu alanlarda da yapılabilmektedir.
+D. DYS Çalışma Sayfası, Görevlerim, Kişisel, Toplu Onay
+6
+D.1. DYS Çalışma Sayfası
+DYS çalışma sayfası, site içeriğindeki dys çalışma kütüphanesidir. Son kullanıcı dys çalışma sayfasında bulunan ‘yeni’
+ve ‘karşıya yükle’ seçenekleri ile doküman ekleyebilir.
+Sistemdeki dokümanlar Kimlik, İsAkisTipi, AkisDurumu, DokumanTipi, DokumanNo, Ad, SahipBolumu, Yonetici,
+DokumanKategorisi, DokumanAdi, BelgeTuru, RevizyonNo, DurumBilgisi parametrelerine göre filtrelenebilir
+olacaktır.
+Dosyaları seç seçeneği ile istenilen dokümanın sisteme yüklenmesi sağlanır.
+Doküman seçiminden sonra aç diyerek form secilir.
+Seçilen doküman sisteme yüklenmeye hazır bir halde olacaktır. Tamam butonuna basarak son kullanıcı dokümanı
+sisteme yükleyecektir.
+Dokümanın sisteme yüklenmiş hali bu şekilde gözükecektir. Düzenle butonu ile aşağıdaki ekranlara ulaşım
+sağlanacaktır.
+Son kullanıcı, düzenle seçeneğinden ulaştığı aşağıdaki form sayfaları ile eklenmiş olan dokümanın veri alanları için
+giriş yapar ve iş akışı başlatabilir. İş akışının başlatılma kararına göre iş akış tipi seçilir. Eğer iş akışı başlatılma seçeneği
+evet ise, son kullanıcının karşısına yeni, iptal ve revize seçenekleri çıkacaktır. Aktif bir iş akışı varsa akış başlatılamaz.
+7
+Not: Dokuman veri sınıfının gizli seçilmesi durumunda formda açılan gizli doküman yetkilileri alanı doldurulmalıdır.
+Son kullanıcı onay detaylarını görmek isterse “Onay detaylari Gosterilsin mi ?” kismindan evet seçerek bu işlemi
+gerçekleştirerek onay detaylarına ulaşabilecektir. Onay detaylarının gösterilmemesi için hayır ibaresini seçmek yeterli
+8
+olacaktır.
+İlişkili dokümanlar, sistem içerisinde varolan dokümanlara ait en az 3 karakter ile arama yapılarak eklenecektir.
+Sistemdeki dökümanın ilişkili doküman olarak seçilmiş hali aşağıdaki gibi gözükecektir. Sil butonundan doküman
+silinebilir olacaktır.
+Ek dokümanlar ve çeviri dokümanlar için ise dosya yüklemesi lokal bilgisayarlar ile sağlanabileccektir. Yine dosya seç
+kutucuklarından istenilen doküman sisteme yüklenerek kaydetme işlemi sağlacaktır.
+Dökümanın sisteme yüklenmiş hali aşağıdaki gibi gözükecektir.
+Çeviri dokümanlar içinde aynı formatta dosya yükleyiş mevcuttur.
+Dökümanın sisteme yüklenmiş hali aşağıdaki gibi gözükecektir. Kaydet alanından form işlemi sonlanacaktır.
+D.2. Görevlerim
+Son kullanıcı, search kısmından görevlerim içinde sütun bazlı (Süreç, Süreç ID, Görev Başlık, Atanan, Atanma Tarihi,
+Durum) arama yapabilecektir. Mavi alanda gösterilen oklar ile sütunlardaki verilerin sıralaması değiştirilebilecektir.
+Görev başlığına tıklanması halinde açılan görev sayfası içerisinden kullanıcılar görevlerini tamamlayabileceklerdir.
+9
+D.3. Kişisel
+Son kullanıcı bu alanda sisteme yüklediği dokümanların hepsini görecektir. Ad, AkisDurumu, YayinlanmaTarihi,
+RevizyonNo, Kimlik, IsAkisiTipi, DokumanNo, DokumanAdi, DokumanTipi, DurumBilgisi, Oluşturma Tarihi başlıklarına
+tıklayarak kullanıcı sıralamaları değiştirebilecektir. Ayrı olarak ise Ad alanındaki doküman isimlerine tıklandığı zaman
+dokümanlar indirilecektir.
+D.4. Toplu Onay
+Son kullanıcı search kısmından atanan görevler için sütun bazlı arama gerçekleştirebilir. Mavi alanda gösterilen oklar
+ile sütunlardaki verilerin sıralaması değiştirilebilecektir.
+Yorum/Açıklama alanına herhangi bir metin girilmesi durumunda toplu onay yapılacak olan tüm görevlerin yorumu
+girilen metin olacaktır. Boş bırakılması halinde “Toplu onay ile onaylanmıştır.” olarak sistem tarafından yorum
+eklenecektir. Sol tarafta bulunan seçim boxları işaretlenip seçilenler onaylandığı zaman, sistem tarafından görevler
+otomatik olarak onaylanacaktır
+E.Duyurular
+Bu alanda herhangi bir doküman yayınlandığında(eklendiğinde, revize olduğunda) ya da yayından kaldırıldığında
+duyurular bölümünde listelenecektir. Tümünü gör butonunda tıkladıktan DuyuruTumu sayfasında diğer duyuruları
+da görmek mümkün olacaktır.
+10
+F. Kısayollar
+Son kullanıcılar kendisiyle paylaşılan kısayollara erişim sağlayacaktır. Tümünü gör butonuna basıldığı takdirde
+tanımlanan KisaYollarTumu sayfası iletüm kısayollara erişim sağlanacaktır.
+11

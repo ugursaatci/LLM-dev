@@ -1,0 +1,92 @@
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) : TP=11,717,392, YP=18,656,124, Toplam=30,373,516
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri : TP=7,652,620, YP=13,501,446, Toplam=21,154,066
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Nakit Değerler ve Merkez Bankası : TP=7,453,246, YP=9,313,438, Toplam=16,766,684
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Bankalar : TP=201,785, YP=4,188,008, Toplam=4,389,793
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Para Piyasalarından Alacaklar : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Beklenen Zarar Karşılıkları (-) : TP=2,411, YP=-, Toplam=2,411
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar : TP=49,278, YP=4,208, Toplam=53,486
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar > Devlet Borçlanma Senetleri : TP=49,278, YP=4,208, Toplam=53,486
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar > Sermayede Payı Temsil Eden Menkul Değerler : TP=, YP=, Toplam=
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar > Diğer Finansal Varlıklar : TP=, YP=, Toplam=
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar : TP=3,626,243, YP=4,383,443, Toplam=8,009,686
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar > Devlet Borçlanma Senetleri : TP=3,010,999, YP=4,383,443, Toplam=7,394,442
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar > Sermayede Payı Temsil Eden Menkul Değerler : TP=16,504, YP=, Toplam=16,504
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar > Diğer Finansal Varlıklar : TP=598,740, YP=, Toplam=598,740
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Türev Finansal Varlıklar : TP=389,251, YP=767,027, Toplam=1,156,278
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Türev Finansal Varlıklar > Türev Finansal Varlıkların Gerçeğe Uygun Değer Farkı KarZarara Yansıtılan Kısmı : TP=336,367, YP=767,027, Toplam=1,103,394
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Türev Finansal Varlıklar > Türev Finansal Varlıkların Gerçeğe Uygun Değer Farkı Diğer Kapsamlı Gelire Yansıtılan Kısmı  : TP=52,884, YP=-, Toplam=52,884
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) : TP=27,801,224, YP=30,384,486, Toplam=58,185,710
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Krediler : TP=24,513,588, YP=22,499,005, Toplam=47,012,593
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Kiralama İşlemlerinden Alacaklar : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Faktoring Alacakları : TP=657,235, YP=-, Toplam=657,235
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > İtfa Edilmiş Maliyeti ile Ölçülen Diğer Finansal Varlıklar : TP=3,142,097, YP=8,103,212, Toplam=11,245,309
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > İtfa Edilmiş Maliyeti ile Ölçülen Diğer Finansal Varlıklar > Devlet Borçlanma Senetleri : TP=1,815,624, YP=8,103,212, Toplam=9,918,836
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > İtfa Edilmiş Maliyeti ile Ölçülen Diğer Finansal Varlıklar > Diğer Finansal Varlıklar : TP=1,326,473, YP=-, Toplam=1,326,473
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Beklenen Kredi Zarar Karşılıkları (-) : TP=511,696, YP=217,731, Toplam=729,427
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net) : TP=952,598, YP=-, Toplam=952,598
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net) > Satış Amaçlı : TP=952,598, YP=-, Toplam=952,598
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net) > Durdurulan Faaliyetlere İlişkin : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI : TP=405,580, YP=-, Toplam=405,580
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > İştirakler (Net) : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > İştirakler (Net) > Özkaynak Yöntemine Göre Değerlenenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > İştirakler (Net) > Konsolide Edilmeyenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Bağlı Ortaklıklar (Net) : TP=405,580, YP=-, Toplam=405,580
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Bağlı Ortaklıklar (Net) > Konsolide Edilmeyen Mali Ortaklıklar : TP=405,580, YP=-, Toplam=405,580
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Bağlı Ortaklıklar (Net) > Konsolide Edilmeyen Mali Olmayan Ortaklıklar : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net) : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net) > Özkaynak Yöntemine Göre Değerlenenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net) > Konsolide Edilmeyenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ DURAN VARLIKLAR (Net) : TP=2,047,920, YP=-, Toplam=2,047,920
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ OLMAYAN DURAN VARLIKLAR (Net) : TP=422,513, YP=-, Toplam=422,513
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ OLMAYAN DURAN VARLIKLAR (Net) > Şerefiye : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ OLMAYAN DURAN VARLIKLAR (Net) > Diğer : TP=422,513, YP=-, Toplam=422,513
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | YATIRIM AMAÇLI GAYRİMENKULLER (Net) : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | CARİ VERGİ VARLIĞI : TP=18,744, YP=-, Toplam=18,744
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ERTELENMİŞ VERGİ VARLIĞI : TP=1,054,701, YP=-, Toplam=1,054,701
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | DİĞER AKTİFLER (Net) : TP=1,610,756, YP=111,039, Toplam=1,721,795
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) : TP=7,899,335, YP=17,721,045, Toplam=25,620,380
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri : TP=3,654,533, YP=13,163,779, Toplam=16,818,312
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Nakit Değerler ve Merkez Bankası : TP=3,641,741, YP=8,509,462, Toplam=12,151,203
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Bankalar : TP=14,576, YP=4,654,317, Toplam=4,668,893
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Para Piyasalarından Alacaklar : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Nakit ve Nakit Benzerleri > Beklenen Zarar Karşılıkları (-) : TP=1,784, YP=-, Toplam=1,784
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar : TP=375, YP=5,166, Toplam=5,541
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar > Devlet Borçlanma Senetleri : TP=375, YP=5,166, Toplam=5,541
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar > Sermayede Payı Temsil Eden Menkul Değerler : TP=, YP=, Toplam=
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Kâr Zarara YansıtılanFinansal Varlıklar > Diğer Finansal Varlıklar : TP=, YP=, Toplam=
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar : TP=3,829,352, YP=4,089,708 , Toplam=7,919,060
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar > Devlet Borçlanma Senetleri : TP=3,697,657, YP=4,089,708, Toplam=7,787,365
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar > Sermayede Payı Temsil Eden Menkul Değerler : TP=16,504, YP=, Toplam=16,504
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Gerçeğe Uygun Değer Farkı Diğer Kapsamlı GelireYansıtılan Finansal Varlıklar > Diğer Finansal Varlıklar : TP=115,191, YP=, Toplam=115,191
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Türev Finansal Varlıklar : TP=415,075, YP=462,392 , Toplam=877,467
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Türev Finansal Varlıklar > Türev Finansal Varlıkların Gerçeğe Uygun Değer Farkı KarZarara Yansıtılan Kısmı : TP=408,311, YP=462,392, Toplam=870,703
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | FİNANSAL VARLIKLAR (Net) > Türev Finansal Varlıklar > Türev Finansal Varlıkların Gerçeğe Uygun Değer Farkı Diğer Kapsamlı Gelire Yansıtılan Kısmı  : TP=6,764, YP=-, Toplam=6,764
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) : TP=23,632,548, YP=27,609,760, Toplam=51,242,308
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Krediler : TP=21,303,327, YP=19,443,660, Toplam=40,746,987
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Kiralama İşlemlerinden Alacaklar : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Faktoring Alacakları : TP=299,115, YP=-, Toplam=299,115
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > İtfa Edilmiş Maliyeti ile Ölçülen Diğer Finansal Varlıklar : TP=2,506,028, YP=8,402,146, Toplam=10,908,174
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > İtfa Edilmiş Maliyeti ile Ölçülen Diğer Finansal Varlıklar > Devlet Borçlanma Senetleri : TP=1,742,450, YP=8,402,146, Toplam=10,144,596
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > İtfa Edilmiş Maliyeti ile Ölçülen Diğer Finansal Varlıklar > Diğer Finansal Varlıklar : TP=763,578, YP=-, Toplam=763,578
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | İTFA EDİLMİŞ MALİYETİ İLE ÖLÇÜLENFİNANSAL VARLIKLAR (Net) > Beklenen Kredi Zarar Karşılıkları (-) : TP=475,922, YP=236,046, Toplam=711,968
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net) : TP=963,253, YP=-, Toplam=963,253
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net) > Satış Amaçlı : TP=963,253, YP=-, Toplam=963,253
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | SATIŞ AMAÇLI ELDE TUTULAN VE DURDURULAN FAALİYETLERE İLİŞKİN DURAN VARLIKLAR (Net) > Durdurulan Faaliyetlere İlişkin : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI : TP=350,580, YP=-, Toplam=350,580
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > İştirakler (Net) : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > İştirakler (Net) > Özkaynak Yöntemine Göre Değerlenenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > İştirakler (Net) > Konsolide Edilmeyenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Bağlı Ortaklıklar (Net) : TP=350,580, YP=-, Toplam=350,580
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Bağlı Ortaklıklar (Net) > Konsolide Edilmeyen Mali Ortaklıklar : TP=350,580, YP=-, Toplam=350,580
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Bağlı Ortaklıklar (Net) > Konsolide Edilmeyen Mali Olmayan Ortaklıklar : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net) : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net) > Özkaynak Yöntemine Göre Değerlenenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ORTAKLIK YATIRIMLARI > Birlikte Kontrol Edilen Ortaklıklar (İş Ortaklıkları) (Net) > Konsolide Edilmeyenler : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ DURAN VARLIKLAR (Net) : TP=2,060,617, YP=-, Toplam=2,060,617
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ OLMAYAN DURAN VARLIKLAR (Net) : TP=404,914, YP=-, Toplam=404,914
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ OLMAYAN DURAN VARLIKLAR (Net) > Şerefiye : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | MADDİ OLMAYAN DURAN VARLIKLAR (Net) > Diğer : TP=404,914, YP=-, Toplam=404,914
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | YATIRIM AMAÇLI GAYRİMENKULLER (Net) : TP=-, YP=-, Toplam=-
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | CARİ VERGİ VARLIĞI : TP=230,891, YP=-, Toplam=230,891
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | ERTELENMİŞ VERGİ VARLIĞI : TP=816,111, YP=-, Toplam=816,111
+Date=Sınırlı Denetimden Geçmiş Cari Dönem 31 Mart 2025 | DİĞER AKTİFLER (Net) : TP=1,165,792, YP=129,417, Toplam=1,295,209
